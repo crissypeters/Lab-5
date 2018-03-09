@@ -1,0 +1,11 @@
+.background    { background-image: url("https://vignette.wikia.nocookie.net/pixeldungeon/images/8/8f/Floor.png");
+                 table-layout: fixed;
+                 border-spacing: 0;   }
+.background td { padding: 0;          }
+.lava          { background: red;    }
+.wall          { background: gray;   }
+.floater	   { background: green;   }
+
+.game {
+  position: relative;
+}
